@@ -1,1 +1,1 @@
-# The Modern JavaScript Bootcamp
+# Hangman Game JS
